@@ -1,26 +1,46 @@
 ---
 layout: index
-title:やぃますね 
+title: 星合の空
 ---
-
-## **F a y の 小 家**
-
->这里Fay，欢迎来玩！<br>
->~~没事干就去调戏调戏右下角的模型嗷~~
-
-
-
-
 ## Contact
 
-- Address: **- Chengdu, China**
-- Phone: **+86 13730761116**
+- Address: **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
+- Phone: **+86 18756280097**
 - E-mail:
-  - **faydflourite@foxmail.com**
-  - **faydflourite9909@gmail.com**
-- WeChat: **迷猫**
-- QQ: **1012542296**
-- Blog: 害，宁不就在这儿么
+  - **wu.kan@foxmail.com**
+  - **wukan3@mail2.sysu.edu.cn**
+  - **im.wu.kan@gmail.com**
+- WeChat: **Wu-_-Kan**
+- QQ: **942759535**
+- Blog: **<https://wu-kan.github.io>**
 
+## Education
 
+School of Data and Computer Science, Sun Yat-sen University, Guangzhou, Sept. 2017 - Jul. 2021(expected)
 
+- Bachelor of Computer Science (Supercomputer Class)
+  - Principle of Supercomputer
+  - Parallel and Distributed Computing
+  - High Performance Computing
+
+## Award
+
+- **Silver Medal**, ICPC Asia Regional Contest Xuzhou Site, Nov. 2019
+- **Second Scholarship**, Oct. 2019
+- **First Prize**, China Collegiate Programming Contest, Guangdong Division, May 2019
+- **Third Scholarship**, Oct. 2018
+- **First Prize**, China Collegiate Programming Contest, Guangdong Division, May 2018
+
+## Skill
+
+- **C/C++**, Familiar
+  - **OpenMP**, Familiar
+  - **MPI**, Familiar&Learning
+  - **CUDA**, Learning
+- **Python**, Familiar
+- **Markdown**, Familiar
+- **LaTex**, Familiar
+- **Linux**, Familiar&Learning
+- **Git**, Familiar
+- **VSCode**, Familiar
+- **Haskell**, Prior Experience
