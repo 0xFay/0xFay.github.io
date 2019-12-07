@@ -13,7 +13,6 @@ title: 星合の空
 - Phone: **+86 13730761116**
 - E-mail:
   - **faydflourite@foxmail.com**
-  - **faydflourite9909@gmail.com**
 - WeChat: **迷猫**
 - QQ: **1012542296**
 - Blog: 害，宁不就在这儿么
