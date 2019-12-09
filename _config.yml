@@ -104,12 +104,12 @@ head: # 删改前确定知道自己在做什么
     value: stylesheet
   - key: href
     value: //cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css # 在https://fontawesome.com/icons 查看支持的图标
-#- tag: link
-#  var:
-#  - key: rel
-#    value: stylesheet
-#  - key: href
-#    value: https://fonts.loli.net/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400 # 字库
+- tag: link
+  var:
+  - key: rel
+    value: stylesheet
+  - key: href
+    value: https://fonts.loli.net/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400 # 字库
 
 body:
   theme-base: theme-base-0d # 可选的值08~0f
@@ -120,15 +120,15 @@ script: # 需要在正文前调用的脚本或者插件的autoloader
 - var:
   - key: src
     value: //cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js # jQuery
-#- var:
-#  - key: size
-#    value: "90" #  the size of ribbon
-#  - key: alpha
-#    value: "0.6" # the opacity of line (0 ~ 1)
-#  - key: zIndex
-#    value: "-1"
-#  - key: src
-#    value: //cdn.jsdelivr.net/npm/ribbon.js/dist/ribbon.min.js # 彩带背景
+- var:
+  - key: size
+    value: "90" #  the size of ribbon
+  - key: alpha
+    value: "0.6" # the opacity of line (0 ~ 1)
+  - key: zIndex
+    value: "-1"
+  - key: src
+    value: //cdn.jsdelivr.net/npm/ribbon.js/dist/ribbon.min.js # 彩带背景
 - var:
   - key: color
     value: "0,0,0" # 线段颜色，RGB三色
@@ -191,19 +191,11 @@ sidebar:
   - title: github
     href: //github.com/0xFay
     class: 'fab fa-github fa-fw'
-  - title: WuK # codeforces
-    href: //codeforces.com/profile/WuK
-    class: 'fas fa-chart-bar fw'
-  - title: WuK # vjudge
-    href: //vjudge.net/user/WuK
-    class: 'fas fa-smile fa-fw'
   - title: 1012542296 # qq
     class: 'fab fa-qq fa-fw'
   - title: 迷猫 # weixin
     class: 'fab fa-weixin fa-fw'
-  - title: zhihu
-    href: //www.zhihu.com/people/wu.kan/activities
-    class: 'fab fa-zhihu fa-fw'
+
   nav:
   - title: '<i class="fas fa-home fa-fw"></i> 首页'
     href: /
@@ -270,18 +262,7 @@ post:
       enable: true
       unit: 次
     copyright: '<i class="fab fa-creative-commons"></i> <a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh">BY-SA 4.0</a>（除特别声明或转载文章外）'
-  reward:
-    enable: true
-    text: 如果这篇博客帮助到你，可以请我喝一杯咖啡~
-    img: # 万一真的有人打赏呢~
-    - id: wechat
-      src: //cdn.jsdelivr.net/gh/wu-kan/wu-kan.github.io@1788f1b6c2e12cca626b85f25749f99ca0c7aad0/public/image/wechatpay.jpg
-    - id: wechatappreciate
-      src: //cdn.jsdelivr.net/gh/wu-kan/wu-kan.github.io@1788f1b6c2e12cca626b85f25749f99ca0c7aad0/public/image/wechatappreciate.jpg
-    - id: qq
-      src: //cdn.jsdelivr.net/gh/wu-kan/wu-kan.github.io@1788f1b6c2e12cca626b85f25749f99ca0c7aad0/public/image/qqpay.jpg
-    - id: alipay
-      src: //cdn.jsdelivr.net/gh/wu-kan/wu-kan.github.io@1788f1b6c2e12cca626b85f25749f99ca0c7aad0/public/image/alipay.jpg
+
 
 valine:
   enable: true
