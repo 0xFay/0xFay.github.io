@@ -8,4 +8,5 @@ layout: page
   homePageName="{{ site.page404.search_children.homePageName }}"></script>
 {% endif %}
 
-<iframe src="[图片]https://cloud.mokeyjay.com/pixiv" frameborder="0"  style="width:240px; height:380px;"></iframe>
+{% if site.page404.pixiv_img.enable %}
+<iframe src="{{ site.page404.pixiv_img.src }}" frameborder="{{ site.page404.pixiv_img.frameborder }}"  style="{{ site.page404.pixiv_img.style }}"></iframe>

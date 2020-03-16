@@ -286,3 +286,8 @@ page404:
   #  charset: utf-8
   #  homePageUrl: '/'
   #  homePageName: 回到我的主页
+  pixiv_img:
+    enable: true
+    src: //cloud.mokeyjay.com/pixiv
+    frameborder: 0
+    style: width:240px; height:380px;
