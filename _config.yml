@@ -281,7 +281,7 @@ valine:
 
 page404:
   search_children: # 腾讯公益
-    enable: true
+    enable: false
     src: //qzonestyle.gtimg.cn/qzone/hybrid/app/404/search_children.js
     charset: utf-8
     homePageUrl: '/'
