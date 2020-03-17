@@ -9,7 +9,7 @@
   }
 }
 body {
-  background: url(//0xfay.github.io/public/image/20200221004204_79621511.jpg);
+  background: url(//0xfay.github.io/public/image/20200221004204_79621511.jpg); /*网页背景*/
   background-size: 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -24,7 +24,7 @@ pre {
 }
 .content {
   background-color: rgba(255,255,255,.4);
-  box-shadow: 0 0 1rem #fff;
+  /*box-shadow: 0 0 1rem #fff;*/
 }
 .masthead {
   margin-bottom: 0rem;

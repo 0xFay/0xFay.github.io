@@ -3,7 +3,7 @@ layout: index
 title: 星合の空
 ---
 
-## **F a y の 小 家**
+## **EL.PSY.CONGROO.**
 
 >这里Fay，欢迎来玩！<br>
 >这里用来放一些自己的学习笔记~~(怕自己懒学着学着就去划水)~~<br>
