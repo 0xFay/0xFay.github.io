@@ -23,8 +23,8 @@ pre {
   overflow: auto;
 }
 .content {
-  background-color: rgba(255, 255, 255, 0.904);
-  /*box-shadow: 0 0 1rem #fff;*/
+  background-color: rgba(255, 255, 255, 0.76);
+  box-shadow: 0 0 1rem rgba(255, 255, 255, 0.233);
 }
 .masthead {
   margin-bottom: 0rem;
