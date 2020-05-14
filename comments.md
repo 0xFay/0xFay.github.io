@@ -22,3 +22,5 @@ title: 留言
 <br>
 <a href='http://www.cl4y.top'>朱师傅的友链！</a>
 <br>
+<a href='https://fog.moe'>老婆！的友链！</a>
+<br>
