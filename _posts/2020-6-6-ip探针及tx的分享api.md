@@ -35,7 +35,7 @@ https://connect.qq.com/widget/shareqq/index.html?url=http://www.baidu.com&desc=a
 
 登录过后选择好友发送：
 
-<img src='.https://0xfay.github.io/public/image/225434.jpg'>
+<img src='https://0xfay.github.io/public/image/225434.jpg'>
 
 打开后不出意料是百度首页。
 
