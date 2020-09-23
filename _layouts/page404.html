@@ -1,0 +1,13 @@
+---
+layout: page
+---
+{{ content }}
+{% if site.page404.search_children.enable %}
+<script src="{{ site.page404.search_children.src }}" charset="{{ site.page404.search_children.charset }}"
+  homePageUrl="{{ site.page404.search_children.homePageUrl }}"
+  homePageName="{{ site.page404.search_children.homePageName }}"></script>
+{% endif %}
+
+{% if site.page404.pixiv_img.enable %}
+<iframe src="{{ site.page404.pixiv_img.src }}" frameborder="{{ site.page404.pixiv_img.frameborder }}"  style="{{ site.page404.pixiv_img.style }}" align="middle"></iframe>
+{% endif %}
